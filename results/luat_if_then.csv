@@ -1,0 +1,18 @@
+﻿,dieu_kien,du_doan,so_nv_train,so_nv_nghi_viec,ty_le_nghi_viec,lift
+0,TotalWorkingYears <= 2 VÀ JobRole_Research_Scientist = 0,Nghỉ việc,55,37,0.6727272727272727,4.1700985761226725
+1,TotalWorkingYears >= 3 VÀ OverTime_No = 0 VÀ OverallSatisfactionIndex <= 2.88 VÀ StockOptionLevel <= 0 VÀ JobRole_Research_Director = 0,Nghỉ việc,61,37,0.6065573770491803,3.759924945684377
+2,TotalWorkingYears >= 3 VÀ OverTime_No = 0 VÀ OverallSatisfactionIndex > 2.88 VÀ MonthlyIncome <= 2476,Nghỉ việc,9,4,0.4444444444444444,2.7550200803212848
+3,TotalWorkingYears <= 2 VÀ JobRole_Research_Scientist = 1 VÀ DistanceFromHome >= 7,Nghỉ việc,15,6,0.4,2.4795180722891565
+4,TotalWorkingYears >= 3 VÀ OverTime_No = 1 VÀ OverallSatisfactionIndex <= 2.38 VÀ StockOptionLevel <= 0 VÀ YearsWithCurrManager <= 8,Nghỉ việc,59,22,0.3728813559322034,2.3114151521339594
+5,TotalWorkingYears >= 3 VÀ OverTime_No = 0 VÀ OverallSatisfactionIndex <= 2.88 VÀ StockOptionLevel >= 1 VÀ YearsInCurrentRole <= 7,Nghỉ việc,74,19,0.25675675675675674,1.5915825464018234
+6,TotalWorkingYears >= 3 VÀ OverTime_No = 0 VÀ OverallSatisfactionIndex > 2.88 VÀ MonthlyIncome >= 2477 VÀ MonthlyRate >= 19910,Nghỉ việc,32,6,0.1875,1.1622740963855422
+7,TotalWorkingYears >= 3 VÀ OverTime_No = 1 VÀ OverallSatisfactionIndex <= 2.38 VÀ StockOptionLevel >= 1 VÀ PercentSalaryHike <= 14,Ở lại,58,8,0.13793103448275862,0.855006231823847
+8,TotalWorkingYears >= 3 VÀ OverTime_No = 1 VÀ OverallSatisfactionIndex > 2.38 VÀ Department_Sales = 1,Ở lại,153,17,0.1111111111111111,0.6887550200803212
+9,TotalWorkingYears >= 3 VÀ OverTime_No = 1 VÀ OverallSatisfactionIndex > 2.38 VÀ Department_Sales = 0 VÀ MonthlyRate >= 8236,Ở lại,245,9,0.036734693877551024,0.22771084337349398
+10,TotalWorkingYears >= 3 VÀ OverTime_No = 0 VÀ OverallSatisfactionIndex > 2.88 VÀ MonthlyIncome >= 2477 VÀ MonthlyRate <= 19909,Ở lại,74,1,0.013513513513513514,0.08376750244220124
+11,TotalWorkingYears <= 2 VÀ JobRole_Research_Scientist = 1 VÀ DistanceFromHome <= 6,Ở lại,11,0,0.0,0.0
+12,TotalWorkingYears >= 3 VÀ OverTime_No = 0 VÀ OverallSatisfactionIndex <= 2.88 VÀ StockOptionLevel <= 0 VÀ JobRole_Research_Director = 1,Ở lại,7,0,0.0,0.0
+13,TotalWorkingYears >= 3 VÀ OverTime_No = 0 VÀ OverallSatisfactionIndex <= 2.88 VÀ StockOptionLevel >= 1 VÀ YearsInCurrentRole >= 8,Ở lại,23,0,0.0,0.0
+14,TotalWorkingYears >= 3 VÀ OverTime_No = 1 VÀ OverallSatisfactionIndex <= 2.38 VÀ StockOptionLevel <= 0 VÀ YearsWithCurrManager >= 9,Ở lại,11,0,0.0,0.0
+15,TotalWorkingYears >= 3 VÀ OverTime_No = 1 VÀ OverallSatisfactionIndex > 2.38 VÀ Department_Sales = 0 VÀ MonthlyRate <= 8235,Ở lại,93,0,0.0,0.0
+16,TotalWorkingYears >= 3 VÀ OverTime_No = 1 VÀ OverallSatisfactionIndex <= 2.38 VÀ StockOptionLevel >= 1 VÀ PercentSalaryHike >= 15,Ở lại,49,0,0.0,0.0
